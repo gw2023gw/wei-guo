@@ -26,7 +26,7 @@ page-layout: full
 
 ## Welcome to my academic website!
 
-I am a **Ph.D. Candidate in Economics at Purdue University**. I am affiliated with the [**Center for Inflation and Price Research**](https://business.purdue.edu/centers/center-for-inflation-and-price-research/people.php){.intro-link}.
+I am a **Ph.D. Candidate(5th year) in Economics at Purdue University**. I am affiliated with the [**Center for Inflation and Price Research**](https://business.purdue.edu/centers/center-for-inflation-and-price-research/people.php){.intro-link}.
 
 My research lies at the intersection of **International Trade, Industrial Organization, and Macroeconomics**. I study trade and industrial policy, semiconductor markets, innovation, production networks, and firm behavior.
 
