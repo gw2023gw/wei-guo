@@ -1,0 +1,95 @@
+---
+title: "Teaching"
+title-block-style: none
+---
+
+<div class="page-header">
+
+# Teaching
+
+I have served as both an instructor and teaching assistant at Purdue University, with experience in microeconomics, game theory, real estate, and macroeconomics.
+
+</div>
+
+
+## Instructor Experience
+
+::: {.teaching-entry}
+
+### ECON 251 — Microeconomics
+
+<div class="teaching-meta">
+Purdue University · Fall 2025
+</div>
+
+<div class="teaching-award">
+Distinguished Teaching Winner
+</div>
+
+Instructor for undergraduate microeconomics.
+
+:::
+
+
+::: {.teaching-entry}
+
+### ECON 251 — Microeconomics
+
+<div class="teaching-meta">
+Purdue University · Summer 2025
+</div>
+
+<div class="teaching-award">
+Distinguished Teaching Winner
+</div>
+
+Instructor for undergraduate microeconomics.
+
+:::
+
+
+## Teaching Assistant Experience
+
+::: {.teaching-entry}
+
+### ECON 510 — Game Theory
+
+<div class="teaching-meta">
+Purdue University · Spring 2026
+</div>
+
+<div class="teaching-instructor">
+Teaching Assistant to Professor Ralph Siebert
+</div>
+
+:::
+
+
+::: {.teaching-entry}
+
+### MGMT 370 — Real Estate Fundamentals
+
+<div class="teaching-meta">
+Purdue University · 2023–2024
+</div>
+
+<div class="teaching-instructor">
+Teaching Assistant to Professor Lindsay Relihan
+</div>
+
+:::
+
+
+::: {.teaching-entry}
+
+### ECON 352 — Macroeconomics
+
+<div class="teaching-meta">
+Purdue University · 2022–2023
+</div>
+
+<div class="teaching-instructor">
+Teaching Assistant to Professor Cathy Zhang
+</div>
+
+:::

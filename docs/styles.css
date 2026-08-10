@@ -1,0 +1,638 @@
+/* =====================================================
+   GLOBAL
+===================================================== */
+
+body {
+  background-color: #fbfaf7;
+  color: #2c2c2c;
+  font-family: -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Arial, sans-serif;
+}
+
+.quarto-title-block {
+  display: none;
+}
+
+main {
+  font-size: 17px;
+}
+
+
+/* =====================================================
+   NAVBAR
+===================================================== */
+
+.navbar {
+  background-color: #172033 !important;
+  border-bottom: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar-title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: white !important;
+}
+
+.navbar-nav .nav-link {
+  color: rgba(255,255,255,0.88) !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #d1ad67 !important;
+}
+
+
+/* =====================================================
+   HOMEPAGE BANNER
+===================================================== */
+
+.name-banner {
+  width: 100%;
+  min-height: 380px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+
+  background-image:
+    linear-gradient(
+      rgba(5, 15, 30, 0.16),
+      rgba(5, 15, 30, 0.16)
+    ),
+    url("banner.png");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  color: white;
+}
+
+.banner-name {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 72px;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+
+  margin-bottom: 18px;
+
+  color: #ffffff;
+}
+
+.banner-subtitle {
+  font-size: 16px;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+
+  color: #d8b36a;
+}
+
+
+
+
+/* =====================================================
+   HOMEPAGE MAIN
+===================================================== */
+
+.homepage-main {
+  max-width: 1250px;
+  margin: 0 auto;
+  padding: 55px 40px 85px 40px;
+
+  display: grid;
+  grid-template-columns: 48% 52%;
+  gap: 65px;
+
+  align-items: center;
+}
+
+.homepage-photo {
+  display: flex;
+  justify-content: center;
+}
+
+.profile-photo {
+  width: 100%;
+  max-width: 560px;
+  height: 650px;
+
+  object-fit: cover;
+  object-position: center top;
+
+  border-radius: 4px;
+
+  box-shadow:
+    0 16px 38px rgba(0,0,0,0.16);
+}
+
+.homepage-about {
+  padding-top: 12px;
+
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.85;
+}
+
+.homepage-about h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  color: #946f31;
+  font-size: 27px;
+  font-weight: 500;
+
+  margin-top: 0;
+  margin-bottom: 28px;
+}
+
+.homepage-about p {
+  margin-bottom: 22px;
+}
+
+.intro-link {
+  color: #8a672d;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.intro-link:hover {
+  color: #b28a45;
+  text-decoration: underline;
+}
+
+
+/* =====================================================
+   COMMON PAGE HEADER
+===================================================== */
+
+.page-header {
+  max-width: 900px;
+  margin: 55px auto 60px auto;
+}
+
+.page-header h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 46px;
+  font-weight: 500;
+
+  margin-bottom: 18px;
+}
+
+.page-header p {
+  max-width: 760px;
+
+  color: #666;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+
+/* =====================================================
+   SECTION HEADINGS
+===================================================== */
+
+#quarto-document-content > h2 {
+  max-width: 900px;
+  margin: 68px auto 35px auto;
+
+  font-size: 14px;
+  font-weight: 700;
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  color: #9b7b3e;
+
+  border-bottom: 1px solid #ddd7cb;
+  padding-bottom: 12px;
+}
+
+
+/* =====================================================
+   RESEARCH PAGE
+===================================================== */
+
+.paper-entry {
+  max-width: 900px;
+
+  margin: 0 auto 55px auto;
+  padding-bottom: 42px;
+
+  border-bottom: 1px solid #ece8df;
+}
+
+.paper-entry h3 {
+  font-family: Georgia, "Times New Roman", serif;
+
+  font-size: 27px;
+  font-weight: 500;
+  line-height: 1.35;
+
+  color: #292929;
+
+  margin-bottom: 10px;
+}
+
+.paper-entry p {
+  font-size: 17px;
+  line-height: 1.72;
+
+  color: #3d3d3d;
+}
+
+.coauthor-line {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+
+  color: #707070;
+
+  font-size: 16.5px;
+
+  margin-top: 3px;
+  margin-bottom: 8px;
+}
+
+.journal-line {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+
+  color: #555;
+
+  font-size: 16.5px;
+
+  margin-bottom: 18px;
+}
+
+.jmp-paper {
+  border-left: 3px solid #9b7b3e;
+  padding-left: 26px;
+}
+
+.paper-status {
+  display: inline-block;
+
+  font-size: 11px;
+  font-weight: 700;
+
+  letter-spacing: 1.4px;
+
+  color: #9b7b3e;
+
+  margin-bottom: 14px;
+}
+
+.draft-note {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+
+  color: #888;
+  font-size: 15px;
+
+  margin-top: 8px;
+}
+
+
+/* =====================================================
+   TEACHING PAGE
+===================================================== */
+
+.teaching-entry {
+  max-width: 900px;
+
+  margin: 0 auto 42px auto;
+  padding-bottom: 34px;
+
+  border-bottom: 1px solid #ece8df;
+}
+
+.teaching-entry h3 {
+  font-family: Georgia, "Times New Roman", serif;
+
+  font-size: 27px;
+  font-weight: 500;
+
+  color: #292929;
+
+  margin-bottom: 8px;
+}
+
+.teaching-meta {
+  color: #666;
+  font-size: 16px;
+
+  margin-bottom: 8px;
+}
+
+.teaching-instructor {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+
+  color: #777;
+  font-size: 16px;
+
+  margin-bottom: 10px;
+}
+
+.teaching-award {
+  display: inline-block;
+
+  padding: 4px 10px;
+
+  border: 1px solid #c7aa70;
+  border-radius: 3px;
+
+  color: #8a6a2f;
+
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.7px;
+
+  margin-top: 4px;
+  margin-bottom: 12px;
+}
+
+
+/* =====================================================
+   CV PAGE
+===================================================== */
+
+.cv-box {
+  max-width: 900px;
+
+  margin: 0 auto 80px auto;
+
+  padding: 38px 42px;
+
+  background-color: #f5f1e8;
+
+  border-left: 3px solid #9b7b3e;
+}
+
+.cv-box h2 {
+  font-family: Georgia, "Times New Roman", serif;
+
+  font-size: 28px;
+  font-weight: 500;
+
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.cv-box p {
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.cv-box .btn-primary {
+  margin-top: 12px;
+
+  background-color: #9b7b3e;
+  border-color: #9b7b3e;
+
+  color: white;
+}
+
+.cv-box .btn-primary:hover {
+  background-color: #80632f;
+  border-color: #80632f;
+}
+
+
+/* =====================================================
+   FOOTER
+===================================================== */
+
+.nav-footer {
+  border-top: 1px solid #e5e1d8;
+
+  font-size: 14px;
+  color: #888;
+}
+
+
+/* =====================================================
+   MOBILE
+===================================================== */
+
+/* =====================================================
+   MOBILE
+===================================================== */
+
+@media (max-width: 800px) {
+
+  /* ---------- Banner ---------- */
+
+  .name-banner {
+    width: 100%;
+    min-height: 260px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    padding: 45px 20px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .banner-name {
+    font-size: 50px;
+    line-height: 1.1;
+    margin-bottom: 14px;
+  }
+
+  .banner-subtitle {
+    font-size: 13px;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+
+  /* ---------- Homepage ---------- */
+
+  .homepage-main {
+    grid-template-columns: 1fr;
+
+    gap: 35px;
+
+    padding: 40px 24px 65px 24px;
+  }
+
+  .homepage-photo {
+    justify-content: center;
+  }
+
+  .profile-photo {
+    width: 100%;
+    max-width: 430px;
+    height: auto;
+
+    object-fit: cover;
+
+    margin: 0 auto;
+  }
+
+  .homepage-about {
+    padding-top: 0;
+
+    font-size: 17px;
+    line-height: 1.75;
+  }
+
+  .homepage-about h2 {
+    font-size: 25px;
+    line-height: 1.3;
+
+    margin-bottom: 22px;
+  }
+
+
+  /* ---------- General page headers ---------- */
+
+  .page-header {
+    margin: 40px 24px 45px 24px;
+  }
+
+  .page-header h1 {
+    font-size: 38px;
+  }
+
+  .page-header p {
+    font-size: 17px;
+  }
+
+
+  /* ---------- Section headings ---------- */
+
+  #quarto-document-content > h2 {
+    margin-left: 24px;
+    margin-right: 24px;
+
+    font-size: 13px;
+    letter-spacing: 1.7px;
+  }
+
+
+  /* ---------- Research ---------- */
+
+  .paper-entry {
+    margin-left: 24px;
+    margin-right: 24px;
+
+    padding-bottom: 35px;
+  }
+
+  .paper-entry h3 {
+    font-size: 24px;
+    line-height: 1.35;
+  }
+
+  .paper-entry p {
+    font-size: 16.5px;
+    line-height: 1.7;
+  }
+
+  .coauthor-line,
+  .journal-line {
+    font-size: 16px;
+  }
+
+  .jmp-paper {
+    padding-left: 18px;
+  }
+/* =====================================================
+   RESEARCH BANNER
+===================================================== */
+
+.research-banner {
+  width: 100%;
+  min-height: 300px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+
+  background-image:
+    linear-gradient(
+      rgba(5, 15, 30, 0.15),
+      rgba(5, 15, 30, 0.15)
+    ),
+    url("banner.png");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  margin-bottom: 55px;
+}
+
+.research-banner-title {
+  font-family: Georgia, "Times New Roman", serif;
+
+  font-size: 64px;
+  font-weight: 400;
+
+  color: #ffffff;
+
+  letter-spacing: 1px;
+}
+.research-banner {
+  min-height: 220px;
+  background-position: center;
+}
+
+.research-banner-title {
+  font-size: 46px;
+}
+  /* ---------- Teaching ---------- */
+
+  .teaching-entry {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+
+  .teaching-entry h3 {
+    font-size: 24px;
+  }
+
+  .teaching-meta,
+  .teaching-instructor {
+    font-size: 15.5px;
+  }
+
+
+  /* ---------- CV ---------- */
+
+  .cv-box {
+    margin-left: 24px;
+    margin-right: 24px;
+
+    padding: 28px 24px;
+  }
+
+  .cv-box h2 {
+    font-size: 25px;
+  }
+
+
+  /* ---------- Navbar ---------- */
+
+  .navbar-title {
+    font-size: 18px;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 15px;
+  }
+
+}

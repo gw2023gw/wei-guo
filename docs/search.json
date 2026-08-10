@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "cv.html#wei-guo",
+    "href": "cv.html#wei-guo",
+    "title": "CV",
+    "section": "Wei Guo",
+    "text": "Wei Guo\nPh.D. Candidate in Economics\nPurdue University\nDownload CV"
+  },
+  {
+    "objectID": "research.html#job-market-paper",
+    "href": "research.html#job-market-paper",
+    "title": "Research",
+    "section": "Job Market Paper",
+    "text": "Job Market Paper\n\nThe Asymmetric Incidence of Intermediate Input Controls: Evidence from Semiconductor Export Restrictions\nThis paper studies the incidence of U.S. semiconductor export controls through trade, production, and strategic technology-capacity channels. I document large and heterogeneous responses in monthly semiconductor trade data: U.S. advanced-chip exports to China fall sharply after the October 2022 controls, while Japan, Taiwan, and Korea respond differently as alternative suppliers.\nI use these moments to discipline a unified four-country dynamic general equilibrium model with Armington chip sourcing, Leontief semiconductor bottlenecks, symmetric AI compute-capital accumulation, frontier-supplier market power, and endogenous allied compliance under access risk.\nThe model shows that aggregate consumption welfare losses can be modest while strategic production-capacity losses are much larger. China cushions household consumption partly by cutting compute investment, which lowers future AI compute capacity. The access-risk mechanism further shows how allied non-compliance can erode suppliers’ access to U.S. technology, amplifying welfare losses and reshaping global AI-capacity accumulation.\n\nDraft coming soon"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nGreen Innovation and Maturity Mismatch: Evidence from China\n\nwith Liqin Zhang, Xiao Sun, and Ruiqi Sun\n\n\nFinance Research Letters, 2025, 85(C): 108124\n\nThis paper examines how corporate green innovation affects firms’ debt maturity structures using panel data on Chinese listed firms from 2007–2023.\nWe find that green innovation significantly exacerbates debt maturity mismatch, driven by long investment horizons, elevated financial risk, and short-term performance constraints.\nThe results are robust to instrumental-variable approaches, propensity-score matching, entropy balancing, and policy shocks from carbon-trading pilots."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nSocial Credit Level and Corporate Leverage Manipulation: Evidence from China\n\nwith Ruiqi Sun and Tianyu Zhang\n\nUsing China’s Social Credit System pilot as a quasi-natural experiment, this paper studies the impact of social credit on corporate leverage manipulation.\nEmploying a difference-in-differences design on Chinese listed firms from 2007–2022, we find that higher social credit significantly reduces leverage manipulation. The effect operates through improved information transparency, expanded credit access, and reduced overleveraging."
+  },
+  {
+    "objectID": "research.html#selected-work-in-progress",
+    "href": "research.html#selected-work-in-progress",
+    "title": "Research",
+    "section": "Selected Work in Progress",
+    "text": "Selected Work in Progress\n\nMultinational Semiconductor Firms and the Geography of Innovation\n\nwith Yuting Wei and Ralph Siebert\n\nThis project studies the geographic allocation of R&D by multinational firms in the semiconductor memory industry.\nUsing firm-level production, capacity, plant, and patent data for the DRAM industry from 1974–2004, we document that innovation is concentrated among multinational firms, that firms replicate internal technology structures across countries, and that R&D entry increases local knowledge spillovers.\nWe develop a multi-country endogenous growth model in which heterogeneous firms choose both the scale and location of R&D. The model is used to assess whether firms under-expand geographically relative to the efficient allocation and how policies such as the U.S. CHIPS and Science Act affect industry growth, productivity, and the global stock of knowledge.\n\n\nThe Transition from Gas Cars to EVs\n\nwith Federico Rossi and Ting Zhu\n\nThis project studies how electric-vehicle adoption reshapes the retail gasoline market through consumer demand, station pricing, and exit decisions.\nWe combine daily prices for roughly 1,700 Chicago-area gas stations with a geolocation panel of about 150,000 consumers, whose individual station visits we construct from raw GPS records.\nWe estimate a random-coefficients demand model in which consumers trade off price against the detour required to visit a station. We use the model to study pricing and station exit as EV penetration increases, including fuel deserts, changes in spatial competition, and distributional welfare effects.\n\n\nThe Dynamic Propagation of Critical-Input Wedges in Production Networks: Short-Run Bottlenecks, Long-Run Catch-Up, and the Conditions for Backfire\nThis project studies how restrictions on critical upstream inputs propagate through production networks and induce endogenous domestic capability responses.\nI develop a dynamic multi-sector model in which an input wedge generates short-run welfare losses through production bottlenecks but also induces domestic production and learning-by-doing in the targeted input sector.\nThe model characterizes when long-run capability gains can outweigh short-run bottleneck losses and how this trade-off depends on input substitutability, network exposure, and the strength of learning."
+  },
+  {
+    "objectID": "teaching.html#instructor-experience",
+    "href": "teaching.html#instructor-experience",
+    "title": "Teaching",
+    "section": "Instructor Experience",
+    "text": "Instructor Experience\n\nECON 251 — Microeconomics\n\nPurdue University · Fall 2025\n\n\nDistinguished Teaching Winner\n\nInstructor for undergraduate microeconomics.\n\n\nECON 251 — Microeconomics\n\nPurdue University · Summer 2025\n\n\nDistinguished Teaching Winner\n\nInstructor for undergraduate microeconomics."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-experience",
+    "href": "teaching.html#teaching-assistant-experience",
+    "title": "Teaching",
+    "section": "Teaching Assistant Experience",
+    "text": "Teaching Assistant Experience\n\nECON 510 — Game Theory\n\nPurdue University · Spring 2026\n\n\nTeaching Assistant to Professor Ralph Siebert\n\n\n\nMGMT 370 — Real Estate Fundamentals\n\nPurdue University · 2023–2024\n\n\nTeaching Assistant to Professor Lindsay Relihan\n\n\n\nECON 352 — Macroeconomics\n\nPurdue University · 2022–2023\n\n\nTeaching Assistant to Professor Cathy Zhang"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-academic-website",
+    "href": "index.html#welcome-to-my-academic-website",
+    "title": "Home",
+    "section": "Welcome to my academic website!",
+    "text": "Welcome to my academic website!\nI am a Ph.D. Candidate in Economics at Purdue University.\nMy research lies at the intersection of International Trade, Industrial Organization, and Macroeconomics. I study trade and industrial policy, semiconductor markets, innovation, production networks, and firm behavior.\nMy current research examines how restrictions on strategic technologies affect international trade, firms’ production and innovation decisions, and economic welfare.\nCurriculum Vitae\nGoogle Scholar · LinkedIn · Email"
+  }
+]

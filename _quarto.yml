@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Wei Guo"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+    right:
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/wei-guo-b90880364/
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=JTBf1YQAAAAJ&hl=zh-CN
+
+  page-footer:
+    center: "© 2026 Wei Guo"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true

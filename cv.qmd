@@ -1,0 +1,24 @@
+---
+title: "CV"
+title-block-style: none
+---
+
+<div class="page-header">
+
+# Curriculum Vitae
+
+A detailed version of my academic background, research, teaching, conference presentations, and professional experience is available below.
+
+</div>
+
+
+::: {.cv-box}
+
+## Wei Guo
+
+Ph.D. Candidate in Economics  
+Purdue University
+
+[Download CV](wei.pdf){.btn .btn-primary}
+
+:::

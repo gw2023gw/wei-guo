@@ -1,0 +1,117 @@
+---
+title: "Research"
+title-block-style: none
+page-layout: full
+---
+
+::: {.name-banner}
+
+<div class="banner-name">Research</div>
+
+:::
+
+
+## Job Market Paper
+
+::: {.paper-entry .jmp-paper}
+
+### The Asymmetric Incidence of Intermediate Input Controls: Evidence from Semiconductor Export Restrictions
+
+This paper studies the incidence of U.S. semiconductor export controls through trade, production, and strategic technology-capacity channels. I document large and heterogeneous responses in monthly semiconductor trade data: U.S. advanced-chip exports to China fall sharply after the October 2022 controls, while Japan, Taiwan, and Korea respond differently as alternative suppliers.
+
+I use these moments to discipline a unified four-country dynamic general equilibrium model with Armington chip sourcing, Leontief semiconductor bottlenecks, symmetric AI compute-capital accumulation, frontier-supplier market power, and endogenous allied compliance under access risk.
+
+The model shows that aggregate consumption welfare losses can be modest while strategic production-capacity losses are much larger. China cushions household consumption partly by cutting compute investment, which lowers future AI compute capacity. The access-risk mechanism further shows how allied non-compliance can erode suppliers' access to U.S. technology, amplifying welfare losses and reshaping global AI-capacity accumulation.
+
+<div class="draft-note">Draft coming soon</div>
+
+:::
+
+
+## Publications
+
+::: {.paper-entry}
+
+### Green Innovation and Maturity Mismatch: Evidence from China
+
+<div class="coauthor-line">
+with Liqin Zhang, Xiao Sun, and Ruiqi Sun
+</div>
+
+<div class="journal-line">
+Finance Research Letters, 2025, 85(C): 108124
+</div>
+
+This paper examines how corporate green innovation affects firms' debt maturity structures using panel data on Chinese listed firms from 2007–2023.
+
+We find that green innovation significantly exacerbates debt maturity mismatch, driven by long investment horizons, elevated financial risk, and short-term performance constraints.
+
+The results are robust to instrumental-variable approaches, propensity-score matching, entropy balancing, and policy shocks from carbon-trading pilots.
+
+:::
+
+
+## Working Papers
+
+::: {.paper-entry}
+
+### Social Credit Level and Corporate Leverage Manipulation: Evidence from China
+
+<div class="coauthor-line">
+with Ruiqi Sun and Tianyu Zhang
+</div>
+
+Using China's Social Credit System pilot as a quasi-natural experiment, this paper studies the impact of social credit on corporate leverage manipulation.
+
+Employing a difference-in-differences design on Chinese listed firms from 2007–2022, we find that higher social credit significantly reduces leverage manipulation. The effect operates through improved information transparency, expanded credit access, and reduced overleveraging.
+
+:::
+
+
+## Selected Work in Progress
+
+::: {.paper-entry}
+
+### Multinational Semiconductor Firms and the Geography of Innovation
+
+<div class="coauthor-line">
+with Yuting Wei and Ralph Siebert
+</div>
+
+This project studies the geographic allocation of R&D by multinational firms in the semiconductor memory industry.
+
+Using firm-level production, capacity, plant, and patent data for the DRAM industry from 1974–2004, we document that innovation is concentrated among multinational firms, that firms replicate internal technology structures across countries, and that R&D entry increases local knowledge spillovers.
+
+We develop a multi-country endogenous growth model in which heterogeneous firms choose both the scale and location of R&D. The model is used to assess whether firms under-expand geographically relative to the efficient allocation and how policies such as the U.S. CHIPS and Science Act affect industry growth, productivity, and the global stock of knowledge.
+
+:::
+
+
+::: {.paper-entry}
+
+### The Transition from Gas Cars to EVs
+
+<div class="coauthor-line">
+with Federico Rossi and Ting Zhu
+</div>
+
+This project studies how electric-vehicle adoption reshapes the retail gasoline market through consumer demand, station pricing, and exit decisions.
+
+We combine daily prices for roughly 1,700 Chicago-area gas stations with a geolocation panel of about 150,000 consumers, whose individual station visits we construct from raw GPS records.
+
+We estimate a random-coefficients demand model in which consumers trade off price against the detour required to visit a station. We use the model to study pricing and station exit as EV penetration increases, including fuel deserts, changes in spatial competition, and distributional welfare effects.
+
+:::
+
+
+::: {.paper-entry}
+
+### The Dynamic Propagation of Critical-Input Wedges in Production Networks: Short-Run Bottlenecks, Long-Run Catch-Up, and the Conditions for Backfire
+
+This project studies how restrictions on critical upstream inputs propagate through production networks and induce endogenous domestic capability responses.
+
+I develop a dynamic multi-sector model in which an input wedge generates short-run welfare losses through production bottlenecks but also induces domestic production and learning-by-doing in the targeted input sector.
+
+The model characterizes when long-run capability gains can outweigh short-run bottleneck losses and how this trade-off depends on input substitutability, network exposure, and the strength of learning.
+
+:::
