@@ -636,3 +636,14 @@ main {
   }
 
 }
+.homepage-about a.intro-link,
+.homepage-about a.intro-link:visited {
+  color: #8a672d !important;
+  text-decoration: none !important;
+  font-weight: 500;
+}
+
+.homepage-about a.intro-link:hover {
+  color: #b28a45 !important;
+  text-decoration: underline !important;
+}
