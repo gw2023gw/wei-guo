@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Wei Guo"
+  description: "Wei Guo is a Ph.D. Candidate in Economics at Purdue University. His research focuses on international trade, industrial organization, macroeconomics"
 
   navbar:
     left:
