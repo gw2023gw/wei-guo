@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google4619a9f48800df39.html
 
 website:
   title: "Wei Guo"
