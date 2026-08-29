@@ -15,8 +15,7 @@ page-layout: full
 
 ::: {.paper-entry .jmp-paper}
 
-### The Asymmetric Incidence of Intermediate Input Controls: Evidence from Semiconductor Export Restrictions
-
+### The Incidence of Semiconductor Export Controls: Access Risk, Compliance, and Strategic Capacity
 This paper studies the incidence of U.S. semiconductor export controls through trade, production, and strategic technology-capacity channels. I document large and heterogeneous responses in monthly semiconductor trade data: U.S. advanced-chip exports to China fall sharply after the October 2022 controls, while Japan, Taiwan, and Korea respond differently as alternative suppliers.
 
 I use these moments to discipline a unified four-country dynamic general equilibrium model with Armington chip sourcing, Leontief semiconductor bottlenecks, symmetric AI compute-capital accumulation, frontier-supplier market power, and endogenous allied compliance under access risk.
